@@ -159,10 +159,10 @@ export const weeklyWorkoutPlan: WeeklyWorkoutPlan = {
         name: 'Hollow Body Flutter Kicks',
         type: 'timed',
         sets: 3,
-        time: '3s',
+        time: '30s',
       },
-      { name: 'Plank with Reach', type: 'timed', sets: 3, time: '3s' },
-      { name: 'V-Sit Hold', type: 'timed', sets: 3, time: '2s' },
+      { name: 'Plank with Reach', type: 'timed', sets: 3, time: '30s' },
+      { name: 'V-Sit Hold', type: 'timed', sets: 3, time: '20s' },
     ],
     cardio: [
       {
